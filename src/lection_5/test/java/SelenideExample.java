@@ -25,5 +25,6 @@ public class SelenideExample {
                 .setValue("tsybizova.anya@mail.ru")
                 .click();
         sleep(5000);
+
     }
 }
